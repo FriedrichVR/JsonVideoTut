@@ -1,1 +1,21 @@
-1
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "FirstName": "Federico",
+      "Surname": "Sastre Heer",
+      "Role": "Architect",
+      "Assigment": "Virtual Reality",
+      "Team": "Technology"      
+    },
+
+    {
+      "UserId": "1",
+      "FirstName": "Leonardo",
+      "Surname": "Handztok",
+      "Role": "Engineer",
+      "Assigment": "Simulation",
+      "Team": "Nuclear Technology"      
+    }     
+  ]  
+}
