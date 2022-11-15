@@ -2,8 +2,8 @@
   "UserInfo":[
     {
       "UserId": "0",
-      "FirstName": "Patricio",
-      "Surname": "Rey",
+      "FirstName": "Federico",
+      "Surname": "Sastre Heer",
       "Role": "Architect",
       "Assigment": "Virtual Reality",
       "Team": "Technology"      
@@ -16,6 +16,16 @@
       "Role": "Engineer",
       "Assigment": "Simulation",
       "Team": "Nuclear Technology"      
-    }     
+    },
+    
+    {
+      "UserId": "2",
+      "FirstName": "Diego Fernando",
+      "Surname": "Ojeda",
+      "Role": "Mechanical Engineer",
+      "Assigment": "Simulation",
+      "Team": "Process Engineer"      
+    }
+    
   ]  
 }
